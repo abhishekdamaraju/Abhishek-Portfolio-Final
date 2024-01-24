@@ -5,4 +5,4 @@
  - You will find my project experience broken down into separate sections depending on the subject area.
  - In the technical skills section, you will find my attached Azure fundamentals certification and a link to my Data Module Github.
 
-Additionally, there is an images folder which contains all of the images used in my HTML file. 
+Additionally, there is an images folder which contains all of the images and formats used in my HTML file. 
